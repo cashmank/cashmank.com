@@ -38,9 +38,12 @@ header:
       text: ''
 
 # Site footer
+i_am_a_sponsor: true
 footer:
+  i_am_a_sponsor: true
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
+    i_am_a_sponsor: true
     license:
       enable: true
       allow_derivatives: false
