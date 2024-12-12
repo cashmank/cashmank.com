@@ -56,7 +56,7 @@ interests:
   - International political economy
 
 education:
-  - area: MA in Economics (candidate)
+  - area: MA in Economics (expected 2025)
     institution: CUNY John Jay
     #date_start: 2016-01-01
     #date_end: 2020-12-31
