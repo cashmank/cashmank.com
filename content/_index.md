@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -40,7 +40,7 @@ sections:
        
        + [Special Drawing Rights: The right tool to use to respond to the pandemic and other challenges](https://doi.org/10.1080/05775132.2022.2134638), with coauthors, *Challenge* 
        
-       + [Book review: Darrell M. West, The Future of Work: Robots, AI, and Automation](https://doi.org/10.4337/roke.2020.01.11) in *Review of Keynesian Economics*
+       + [Book review: Darrell M. West, *The Future of Work: Robots, AI, and Automation*](https://doi.org/10.4337/roke.2020.01.11) in *Review of Keynesian Economics*
        
        + [What Happened in Bolivia’s 2019 Vote Count?](https://doi.org/10.1080/05775132.2020.1711490), with coauthors, *Challenge*
     design:
@@ -48,6 +48,22 @@ sections:
   - block: markdown
     content:
       title: 'Policy Reports (Selected)'
+      subtitle: ''
+      text: |-
+       + [Special Drawing Rights one year later: By the numbers](https://cepr.net/special-drawing-rights-one-year-later-by-the-numbers/), with Andrés Arauz, Center for Economic and Policy Research (CEPR)
+       
+       + [Special Drawing Rights could help recover millions of export-related US jobs, and create even more](https://cepr.net/report/special-drawing-rights-could-help-recover-millions-of-export-related-us-jobs-and-create-even-more/), CEPR
+       
+       + [Republican Senate leadership on IMF Special Drawing Rights (SDRs): A fact check](https://cepr.net/report/republican-senate-leadership-on-imf-special-drawing-rights-sdrs-a-fact-check/), with Mark Weisbrot, CEPR
+       
+       + [Stick shift: Autonomous vehicles, driving jobs, and the future of work](https://www.law.gwu.edu/sites/g/files/zaxdzs5421/files/downloads/Stick-Shift-Autonomous-Vehicles-Driving-Jobs-and-the-Future-of-Work.pdf), with coauthors, Center for Global Policy Solutions
+       
+       + [Life after debt in Puerto Rico: How many more lost decades?](https://cepr.net/report/life-after-debt-in-puerto-rico-how-many-more-lost-decades/), with coauthors, CEPR
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: 'Opinion (Selected)'
       subtitle: ''
       text: |-
        + [Special Drawing Rights one year later: By the numbers](https://cepr.net/special-drawing-rights-one-year-later-by-the-numbers/), with Andrés Arauz, Center for Economic and Policy Research (CEPR)
