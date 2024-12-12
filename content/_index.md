@@ -69,7 +69,7 @@ sections:
        
        [A week after the coup in Bolivia, there's still no proof of electoral fraud](https://jacobin.com/2019/11/evo-morales-bolivia-coup-election-fraud-organization-of-american-states),*Jacobin* 
        
-       [US sanctions are designed to kill](https://jacobin.com/2019/09/us-iran-sanctions-donald-trump-iran-deal-oil-banks), *Jacobin* 
+       [US sanctions are designed to kill](https://jacobin.com/2019/09/us-iran-sanctions-donald-trump-iran-deal-oil-banks), with Cavan Kharrazian, *Jacobin* 
        
        [There is no alternative to managing the economy and the climate](https://mronline.org/2019/05/16/there-is-no-alternative-to-managing-the-economy-and-the-climate/), *MR Online* 
        
