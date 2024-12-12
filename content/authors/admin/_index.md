@@ -190,6 +190,6 @@ education:
 
 I work to better understand how global economic power is deployed and contested, particularly in how US foreign policy and the international financial institutions shape the development of low- and middle-income countries. My work has been cited by outlets such as *The New York Times*, *The Washington Post*, and *The Wall Street Journal*.
 
-After several years working in both US-focused and international policy research in Washington, DC, I am now completing my MA in Economics at John Jay College. I aim to collaborate with economists, policy experts, and academics in shaping debates around global governance, the international financial architecture, and the potential for a more democratic and equitable global economy. I've also done contract work for UN agencies, think tanks, and civil society organization.
+After several years of work in both US-focused policy research and international policy research in Washington, DC, I am now completing my MA in Economics at John Jay College. I aim to collaborate with economists, policy experts, and academics in shaping debates around global governance, the international financial architecture, and the potential for a more democratic and equitable global economy. I've also done contract work for UN agencies, think tanks, and civil society organization.
 
 In the past, I've written extensively about the US labor market, Social Security, the (sometimes false) promises of technology and the "future of work", among other issues, and worked at a regulator for carbon market programs. 
