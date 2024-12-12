@@ -63,26 +63,6 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 'Policy Reports (Selected)'
-      subtitle: ''
-      text: |-
-       + [Biden price hike? The nexus of foreign policy and economic crisis](https://responsiblestatecraft.org/2022/07/26/biden-price-hike-the-nexus-of-foreign-policy-and-economic-crisis/), *Responsible Statecraft*          
-       
-       + [A week after the coup in Bolivia, there's still no proof of electoral fraud](https://jacobin.com/2019/11/evo-morales-bolivia-coup-election-fraud-organization-of-american-states),*Jacobin* 
-       
-       + [US sanctions are designed to kill](https://jacobin.com/2019/09/us-iran-sanctions-donald-trump-iran-deal-oil-banks), with Cavan Kharrazian, *Jacobin* 
-       
-       + [There is no alternative to managing the economy and the climate](https://mronline.org/2019/05/16/there-is-no-alternative-to-managing-the-economy-and-the-climate/), *MR Online* 
-       
-       + [Social Security trustees consistently agree: The program is well-funded](https://www.commondreams.org/views/2019/05/06/social-security-trustees-consistently-agree-program-well-funded), with Adewale Maye, *Common Dreams* 
-       
-       + [Don’t be afraid of robots: Technology is what we make of it](https://www.nakedcapitalism.com/2017/11/dont-afraid-robots-technology-make.html), *Naked Capitalism*
-       
-       + [Cities need more public transit, not more Uber and self-driving cars](https://billmoyers.com/story/cities-need-public-transit-not-uber-self-driving-cars/), *BillMoyers.com*
-    design:
-      columns: '1'
-  - block: markdown
-    content:
       title: 'Editorials (Selected)'
       subtitle: ''
       text: |-
