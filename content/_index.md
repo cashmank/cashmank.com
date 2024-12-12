@@ -63,7 +63,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 'Editorials (Selected)'
+      title: 'Opinion (Selected)'
       subtitle: ''
       text: |-
        + [Biden price hike? The nexus of foreign policy and economic crisis](https://responsiblestatecraft.org/2022/07/26/biden-price-hike-the-nexus-of-foreign-policy-and-economic-crisis/), *Responsible Statecraft*          
