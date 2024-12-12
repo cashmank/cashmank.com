@@ -67,7 +67,7 @@ sections:
       text: |-
        + [Biden price hike? The nexus of foreign policy and economic crisis](https://responsiblestatecraft.org/2022/07/26/biden-price-hike-the-nexus-of-foreign-policy-and-economic-crisis/), *Responsible Statecraft*          
        
-       + [A week after the coup in Bolivia, there's still no proof of electoral fraud](https://jacobin.com/2019/11/evo-morales-bolivia-coup-election-fraud-organization-of-american-states),*Jacobin* 
+       + [A week after the coup in Bolivia, there's still no proof of electoral fraud](https://jacobin.com/2019/11/evo-morales-bolivia-coup-election-fraud-organization-of-american-states), *Jacobin* 
        
        + [US sanctions are designed to kill](https://jacobin.com/2019/09/us-iran-sanctions-donald-trump-iran-deal-oil-banks), with Cavan Kharrazian, *Jacobin* 
        
