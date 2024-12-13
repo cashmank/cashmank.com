@@ -83,7 +83,7 @@ sections:
   - block: markdown
     content:
       title: 'Visualizations (Selected)'
-      subtitle: ''
+      subtitle: 'I've used tools such as Datawrapper, Tableau, Plotly, CARTO, R, and Shorthand to visualize or produce content'
       text: |-
        + [Over a Hundred Countries Have Used Special Drawing Rights from August 2021 to July 2022](https://www.datawrapper.de/_/uRPQs/?v=5), Datawrapper         
        
