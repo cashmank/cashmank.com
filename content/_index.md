@@ -85,7 +85,6 @@ sections:
       title: 'Visualizations (Selected)'
       subtitle: ''
       text: |-
-       *I've used tools such as Datawrapper, Tableau, Plotly, CARTO, R, and Shorthand to visualize or produce content*
        + [Over a Hundred Countries Have Used Special Drawing Rights from August 2021 to July 2022](https://www.datawrapper.de/_/uRPQs/?v=5), Datawrapper         
        
        + [When Do the Rich Stop Paying into Social Security in 2020?](https://public.tableau.com/app/profile/cashmank/viz/WhenDotheRichStopPayingintoSocialSecurityin2020/WhenDotheRichStopPayingintoSocialSecurityin2020), Tableau 
