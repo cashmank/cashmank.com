@@ -38,7 +38,6 @@ sections:
        + [How effective was assistance to the vulnerable countries during the pandemic? Comparing the Debt Service Suspension Initiative and Special Drawing Rights](http://dx.doi.org/10.61801/OUAESS.2023.1.19), with Lara Merling, *Ovidius University Annals, Economic Sciences Series*
         
        + [Special Drawing Rights: The right tool to use to respond to the pandemic and other challenges](https://doi.org/10.1080/05775132.2022.2134638), with coauthors, *Challenge* 
-      subtitle: 'test2'
        + [Book review: Darrell M. West, *The Future of Work: Robots, AI, and Automation*](https://doi.org/10.4337/roke.2020.01.11), *Review of Keynesian Economics*
        
        + [What Happened in Bolivia's 2019 Vote Count?](https://doi.org/10.1080/05775132.2020.1711490), with coauthors, *Challenge*
