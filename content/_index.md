@@ -33,12 +33,12 @@ sections:
   - block: markdown
     content:
       title: 'Academic Publications (Selected)'
-      subtitle: ''
+      subtitle: 'test'
       text: |-
        + [How effective was assistance to the vulnerable countries during the pandemic? Comparing the Debt Service Suspension Initiative and Special Drawing Rights](http://dx.doi.org/10.61801/OUAESS.2023.1.19), with Lara Merling, *Ovidius University Annals, Economic Sciences Series*
         
        + [Special Drawing Rights: The right tool to use to respond to the pandemic and other challenges](https://doi.org/10.1080/05775132.2022.2134638), with coauthors, *Challenge* 
-       
+      subtitle: 'test2'
        + [Book review: Darrell M. West, *The Future of Work: Robots, AI, and Automation*](https://doi.org/10.4337/roke.2020.01.11), *Review of Keynesian Economics*
        
        + [What Happened in Bolivia's 2019 Vote Count?](https://doi.org/10.1080/05775132.2020.1711490), with coauthors, *Challenge*
@@ -78,22 +78,6 @@ sections:
        + [Don't be afraid of robots: Technology is what we make of it](https://www.nakedcapitalism.com/2017/11/dont-afraid-robots-technology-make.html), *Naked Capitalism*
        
        + [Cities need more public transit, not more Uber and self-driving cars](https://billmoyers.com/story/cities-need-public-transit-not-uber-self-driving-cars/), *BillMoyers.com*
-    design:
-      columns: '1'
-  - block: markdown
-    content:
-      title: 'Visualizations (Selected)'
-      subtitle: 'I've used tools such as Datawrapper, Tableau, Plotly, CARTO, R, and Shorthand to visualize or produce content'
-      text: |-
-       + [Over a Hundred Countries Have Used Special Drawing Rights from August 2021 to July 2022](https://www.datawrapper.de/_/uRPQs/?v=5), Datawrapper         
-       
-       + [When Do the Rich Stop Paying into Social Security in 2020?](https://public.tableau.com/app/profile/cashmank/viz/WhenDotheRichStopPayingintoSocialSecurityin2020/WhenDotheRichStopPayingintoSocialSecurityin2020), Tableau 
-       
-       + [Private Equity Pillage: Grocery Stores and Workers At Risk](https://cepr.shorthandstories.com/private-equity-pillage/index.html), Shorthand 
-       
-       + [How Do You Define "Middle Class" and "Middle Income"?](https://public.tableau.com/app/profile/cashmank/viz/HowDoYouDefineMiddleClassandMiddleIncome/Dashboard1), Tableau
-       
-       + [The Union Dividend: It Reaches Beyond Members](https://cepr.net/the-union-dividend-it-reaches-beyond-members/), CARTO
     design:
       columns: '1'
 ---
