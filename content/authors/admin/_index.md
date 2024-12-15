@@ -188,8 +188,8 @@ education:
 
 ## About Me
 
-I work to better understand how global economic power is deployed and contested, particularly in how US foreign policy and the international financial institutions shape the development of low- and middle-income countries. My work on sanctions, US foreign policy, and macroeconomics, among other issues, has been cited by outlets such as *The New York Times*, *The Washington Post*, and *The Wall Street Journal*.
+I work to better understand how global economic power is deployed and contested, particularly how US foreign policy and international financial institutions shape the development of low- and middle-income countries. 
 
-After working in both US-focused policy research and international policy research in Washington, DC for several years, I am now completing my MA in Economics at John Jay College. I aim to collaborate with economists, policy experts, and academics in shaping debates around global governance, the international financial architecture, and the potential for a more democratic and equitable global economy. I've also done contract work for UN agencies, think tanks, and civil society organizations.
+My work on sanctions, US foreign policy, and macroeconomics, among other issues, has been cited by outlets such as *The New York Times*, *The Washington Post*, and *The Wall Street Journal*. I aim to shape debates around global governance, the international financial architecture, and the potential for a more democratic and equitable global economy. 
 
-In the past, I've written extensively about the US labor market, Social Security, the (sometimes false) promises of technology and the "future of work", alongside other topics, and worked at a regulator for carbon market programs. 
+After working in both US-focused and international policy research in Washington, DC, I am completing a graduate degree in Economics at John Jay College. In the past, I've written extensively about the US labor market, Social Security, the (sometimes false) promises of technology and the "future of work", alongside other topics, and worked as a regulator for carbon market programs. I've also consulted for UN agencies, think tanks, and civil society organizations.
