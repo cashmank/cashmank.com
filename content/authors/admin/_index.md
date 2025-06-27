@@ -37,8 +37,8 @@ profiles:
     url: https://x.com/cashmank_
   - icon: brands/bluesky
     url: https://bsky.app/profile/cashman.bsky.social
-  #- icon: brands/linkedin
-  #  url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/cashmank/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-8472-1424
   #- icon: brands/instagram
